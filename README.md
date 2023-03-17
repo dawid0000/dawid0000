@@ -1,7 +1,7 @@
 # 💫 O mnie:
 <p>🙋Jestem Dawid.</p>
 <p>🖥️Programuję z pasji.</p>
-<p>🤝 Aktualnie pracuję na: **LifeStyle**.</p>
+<p>🤝 Aktualnie pracuję na: LifeStyle.</p>
 
 
 ## 🌐 Socialki:
